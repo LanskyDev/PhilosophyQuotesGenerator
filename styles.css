@@ -25,6 +25,8 @@ body {
     padding: 30px;
     border-radius: 15px;
     position: relative;
+    max-width: 500px;
+    margin: 30px;
 }
 
 .author {
@@ -55,7 +57,9 @@ border: none;
    display: flex;
    border-radius: 50%;
    position: absolute;
+   left: 50%;
    bottom: -15%;
+   transform: translateX(-50%);
    cursor: pointer;
 }
 
