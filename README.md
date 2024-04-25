@@ -1,1 +1,1 @@
-# PhilosophyQuotesGenerator
+# Random quote generator
